@@ -1,1 +1,1 @@
-# eksplorasi_logika.md.
+# Praktikum1-logika-[faris].
